@@ -1,0 +1,86 @@
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+
+#herotext {
+	margin-top: -13px;
+}
+
+.btn-medium {
+	font-size: 16px;
+	padding-top: 7px;
+	padding-bottom: 7px;
+}
+
+#location {
+	margin-left: 25px;
+}
+
+.hero-unit {
+	padding: 60px;
+  	background: rgba(200, 200, 200, 0.4);
+  	color: black;
+  	margin-bottom: 30px;
+  	font-size: 18px;
+  	font-weight: 200;
+  	line-height: 30px;
+  	-webkit-border-radius: 6px;
+     	-moz-border-radius: 6px;
+          border-radius: 6px;
+}
+
+#profile {
+	float: right;
+	position: relative;
+	height: 21%;
+	width: 21%;
+	margin-top: -42px;
+	margin-right: 7px;
+	border-radius: 3px;
+	opacity: 1.0;
+}
+
+body {
+  background-image:url('images/greenbg.png');
+}
+
+.row {
+	color: #d5d5d5;
+}
+
+footer {
+	color: gray;
+}
+
+.span3 {
+	padding-left: 40px;
+	padding-right: 40px;
+}
+
+#borderposter {
+	float: left;
+	width: 420px;
+	height: 315px;
+	position: relative;
+}
+
+#bordertrailer {
+	float: right;
+	position: relative;
+}
+
+.mediaitem {
+	padding: 30px;
+	border-radius: 6px;
+	margin-top: 10px;
+	background: rgba(88,88,88,0.7);
+}
+
+#borderposter {
+	margin-right: 130px;
+}
+
+.mediatext {
+	color: white;
+	margin-top: 10px;
+}
