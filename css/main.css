@@ -18,13 +18,21 @@
 
 .hero-unit {
 	padding: 60px;
-  	background: rgba(200, 200, 200, 0.4);
+  	background: rgba(200, 200, 200, 0.75);
   	color: black;
   	margin-bottom: 30px;
   	font-size: 18px;
   	font-weight: 200;
   	line-height: 30px;
   	-webkit-border-radius: 6px;
+     	-moz-border-radius: 6px;
+          border-radius: 6px;
+}
+
+.span3 {
+  	background: rgba(200, 200, 200, 0.75);
+	color: black;
+	-webkit-border-radius: 6px;
      	-moz-border-radius: 6px;
           border-radius: 6px;
 }
@@ -41,15 +49,23 @@
 }
 
 body {
-  background-image:url('images/greenbg.png');
+  background-image:url('images/x-bg.png');
 }
 
 .row {
-	color: #d5d5d5;
+	color: black;
 }
 
 footer {
-	color: gray;
+	background: rgba(200, 200, 200, 0.75);
+	color: black;
+	-webkit-border-radius: 6px;
+     	-moz-border-radius: 6px;
+          border-radius: 6px;
+    margin-right: 72%;
+    padding-left: 10px;
+    padding-top: 2px;
+    padding-bottom: 2px;
 }
 
 .span3 {
