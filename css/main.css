@@ -13,13 +13,14 @@
 }
 
 #location {
-	margin-left: 25px;
+	margin-left: 100px;
 }
 
 .hero-unit {
 	padding: 60px;
-  	background: rgba(200, 200, 200, 0.75);
+  	background: rgba(200, 200, 200, 0.8);
   	color: black;
+  	width: 70%;
   	margin-bottom: 30px;
   	font-size: 18px;
   	font-weight: 200;
@@ -28,6 +29,7 @@
      	-moz-border-radius: 6px;
           border-radius: 6px;
 }
+
 
 .span3 {
   	background: rgba(200, 200, 200, 0.75);
@@ -39,17 +41,17 @@
 
 #profile {
 	float: right;
-	position: relative;
-	height: 21%;
-	width: 21%;
-	margin-top: -42px;
+	height: 200px;
+	width: 230px;
+	margin-top: -53px;
 	margin-right: 7px;
 	border-radius: 3px;
 	opacity: 1.0;
 }
 
 body {
-  background-image:url('images/x-bg.png');
+  background-image:url('images/grand_canyon.jpg');
+  background-size: cover;
 }
 
 .row {
@@ -68,35 +70,8 @@ footer {
     padding-bottom: 2px;
 }
 
+
 .span3 {
 	padding-left: 40px;
 	padding-right: 40px;
-}
-
-#borderposter {
-	float: left;
-	width: 420px;
-	height: 315px;
-	position: relative;
-}
-
-#bordertrailer {
-	float: right;
-	position: relative;
-}
-
-.mediaitem {
-	padding: 30px;
-	border-radius: 6px;
-	margin-top: 10px;
-	background: rgba(88,88,88,0.7);
-}
-
-#borderposter {
-	margin-right: 130px;
-}
-
-.mediatext {
-	color: white;
-	margin-top: 10px;
 }
