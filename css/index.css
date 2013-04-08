@@ -5,7 +5,6 @@
 	padding-bottom: 5px;
   	background: rgba(200, 200, 200, 0.75);
   	color: black;
-  	margin-bottom: 30px;
   	width: 40%;
   	font-size: 18px;
   	font-weight: 200;
@@ -21,6 +20,7 @@
 	width: 329px;
 	margin-top: -268px;
 	margin-right: 100px;
+	padding-bottom: -40px;
 	border-radius: 3px;
 	opacity: 1.0;
 }
@@ -31,7 +31,6 @@ footer {
 	-webkit-border-radius: 6px;
      	-moz-border-radius: 6px;
           border-radius: 6px;
-    padding-top: 10000px;
     position: relative;
     clear: both;
 }
@@ -39,6 +38,6 @@ footer {
 #indexfoot {
 	height: 80px;
 	bottom: -20px;
-	padding-top: 15px;
+	padding-top: 10px;
 	background: rgba(200, 200, 200, 0.75);
 }
