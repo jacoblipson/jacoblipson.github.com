@@ -39,16 +39,6 @@
           border-radius: 6px;
 }
 
-#profile {
-	float: right;
-	height: 200px;
-	width: 230px;
-	margin-top: -53px;
-	margin-right: 7px;
-	border-radius: 3px;
-	opacity: 1.0;
-}
-
 body {
   background-image:url('images/grand_canyon.jpg');
   background-size: cover;
@@ -66,7 +56,7 @@ footer {
           border-radius: 6px;
     margin-right: 72%;
     padding-left: 10px;
-    padding-top: 2px;
+    padding-top: 10px;
     padding-bottom: 2px;
 }
 
