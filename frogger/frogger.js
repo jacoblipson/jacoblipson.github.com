@@ -117,8 +117,8 @@ function restartGame() {
 
 /* loads audio files for play in game */
 function add_audio() {
-	jumpSound = new Audio('assets/jumpsound.m4a');
-	deathSound = new Audio('assets/deathsound.m4a');
+	jumpSound = new Audio('frogger/assets/jumpsound.m4a');
+	deathSound = new Audio('frogger/assets/deathsound.m4a');
 }
 
 /* Calls functions to initialize parameters for game status, lives, time, score,
