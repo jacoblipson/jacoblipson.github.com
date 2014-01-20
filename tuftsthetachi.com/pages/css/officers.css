@@ -1,0 +1,65 @@
+#officers li {
+	background-color: #C60E0A;
+
+}
+
+#officers li p {
+	text-align: center;
+	margin: 0;
+	padding: 0;
+}
+
+#officers li img {
+	margin-left: 5em;
+	width: 200px;
+	height: 200px;
+	border-radius: 5px;
+}
+
+#president {
+	margin-top: 18%;
+	float: left;
+	margin-left: 5em;
+	width: 25em;
+}
+
+#vp {
+	margin-top: -45%;
+	width: 25em;
+	float: right;
+}
+
+#vphs {
+	float: left;
+	margin-left: 5em;
+	width: 25em;
+}
+
+#secretary {
+	margin-top: -45%;
+	width: 25em;
+	float: right;
+}
+
+#treasurer {
+	margin-top: 0%;
+	float: left;
+	margin-left: 5em;
+	width: 25em;
+}
+
+#marshal {
+	margin-top: -45%;
+	width: 25em;
+	float: right;
+}
+
+#chairs {
+	margin-left: 5em;
+	width: 57em;
+	clear: both;
+}
+
+.officername {
+	font-weight: 600;
+}

@@ -1,0 +1,90 @@
+*{
+	margin: 0;
+	padding: 0;
+	border: 0 none;
+	outline: 0;
+}
+body {
+	text-align: center;
+	background: #ffffff;
+}
+
+#container{
+	width: 1067px;
+	margin-top: 162px;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 0;
+	position: relative;
+	-webkit-border-radius: 8px 8px 8px 8px;
+	-moz-border-radius: 8px 8px 8px 8px;
+	border-radius: 8px 8px 8px 8px;
+	overflow: hidden;
+}
+img{
+	display: block;
+}
+#gallery, #thumbs{
+	float: left;
+}
+#gallery{
+	width: 800px;
+	height: 300px;
+	overflow: hidden;
+}
+#gallery img{
+	width: 800px;
+	height: 300px;
+	position: absolute;
+}
+#thumbs{
+	width: 267px;
+	height: 300px;
+	position: relative;
+	overflow: hidden;
+}
+#thumbs img {
+	width: 267px;
+	height: 100px;
+	margin: 0;
+}
+#next{
+	display: block;
+	width: 47px;
+	height: 20px;
+	background: url(../img/arrow.png) 0 -43px;
+	position: relative;
+	top: 287px; /* moves arrow up or down */
+	left: 797px;
+}
+
+#next:hover{
+	background: url(../img/arrowmo.png) 0 0;
+	top: 260px;
+	height: 43px;
+}
+
+#presletter {
+	padding: 1.5em;
+	width: 100%;
+	margin-left: 3em;
+}
+
+#presletter p {
+	text-align: left;
+	width: 80%;
+	margin-top: 10px;
+	margin-left: 6em;
+}
+
+#best {
+	padding-left: 4em;
+}
+
+#jakename {
+	padding-left: 4em;
+}
+
+#title {
+	padding-left: 4em;
+}

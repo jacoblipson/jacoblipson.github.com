@@ -1,0 +1,38 @@
+#prismrun p {
+	width: 58%;
+	float: right;
+	padding-right: 1em;
+	margin-top: -0.5%;
+}
+
+#headshaving p {
+	width: 58%;
+	float: right;
+	padding-right: 1em;
+	margin-top: 1%;
+}
+
+#tbdc p {
+	width: 58%;
+	float: left;
+	padding-left: 1em;
+	margin-top: -0.5%;
+}
+
+#tbdc img {
+	margin-left: 5%;
+}
+
+.philpicl {
+	height: 200px;
+	width: 300px;
+	border-radius: 5px;
+	margin-left: 1em;
+}
+
+.philpicr {
+	height: 200px;
+	width: 300px;
+	border-radius: 5px;
+	margin-right: -1em;
+}
