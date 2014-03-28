@@ -1,0 +1,19 @@
+body {
+	background-color: #66FF99;
+}
+
+h2 {
+	text-align: center;
+	font-family: sans-serif;
+}
+
+.back_panel {
+	margin-left: 5%;
+	padding-left: 5%;
+	padding-top: 5%;
+	width: 80%;
+	height: 250px;
+	background-color: #00CCFF;
+	border-radius: 7px;
+}
+
