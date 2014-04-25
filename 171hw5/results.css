@@ -1,5 +1,5 @@
 body {
-	background-color: #66FF99;
+	background-color: #006600;
 }
 
 h2 {
@@ -13,11 +13,24 @@ h2 {
 	padding-top: 5%;
 	width: 80%;
 	padding-bottom: 5%;
-	background-color: #00CCFF;
+	background-color: #FF9966;
 	border-radius: 7px;
+	font-family: sans-serif;
+	font-size: 0.8em;
 }
 
 .results {
 	background-color: orange;
 	width: 90%;
+	padding: 2%;
+}
+
+#results1 {
+	margin-bottom: 5%;
+}
+
+button {
+	width: 7em;
+	margin-left: 35%;
+	border-radius: 0.2em;
 }

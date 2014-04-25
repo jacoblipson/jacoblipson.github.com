@@ -1,8 +1,13 @@
 body {
-	background-color: #66FF99;
+	background-color: #006600;
 }
 
 h2 {
+	text-align: center;
+	font-family: sans-serif;
+}
+
+h3 {
 	text-align: center;
 	font-family: sans-serif;
 }
@@ -13,7 +18,20 @@ h2 {
 	padding-top: 5%;
 	width: 80%;
 	height: 250px;
-	background-color: #00CCFF;
+	background-color: #FF9966;
 	border-radius: 7px;
 }
 
+button {
+	width: 7em;
+	height: 4em;
+	border-radius: 0.2em;
+}
+
+#b1 {
+	float: left;
+}
+
+#b2 {
+	margin-left: 20%;
+}
