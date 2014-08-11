@@ -1,0 +1,193 @@
+@import url(http://fonts.googleapis.com/css?family=Lato:300);
+
+body div .navbar .navbar-inner {
+	background-image: none;
+	background-color: black;
+}
+
+div .container {
+	margin-left: 15%;
+}
+
+.navbar-inverse .brand {
+	display: none;
+	color: #DA727E;
+	font-size: 1.8em;
+	margin-left: -3.5em;
+	margin-right: 1em;
+	margin-top: 0.2em;
+}
+
+.navbar-inner .nav>li>a {
+	color: #ffffff;
+	font-family: Lato, Arial, sans-serif;
+	margin-bottom: auto;
+	margin-left: 0.5em;
+	margin-right: 0.5em;
+	font-size: 1.3em;
+}
+
+.navbar-inverse .nav>li {
+	padding-top: 1.2em;
+	padding-bottom: 1.2em;
+	-webkit-transition: background 0.3s ease;
+        -moz-transition: background 0.3s ease;
+        -ms-transition: background 0.3s ease;
+        -o-transition: background 0.3s ease;
+        transition: background 0.3s ease;
+}
+
+.nav-a:hover {
+	background-color: #733A87;
+}
+
+.nav-b:hover {
+	background-color: #097FB2;
+}
+
+.nav-c:hover {
+	background-color: #45B29D;
+}
+
+.nav-d:hover {
+	background-color: #EFC94C;
+}
+
+.nav-e:hover {
+	background-color: #E27A3F;
+}
+
+.nav-f:hover {
+	background-color: #DF5A49;
+}
+
+.nav-g:hover {
+	background-color: #BF0061;
+}
+
+body {
+	padding-top: 60px;
+    padding-bottom: 40px;
+	background-image: url("../resources/jakebandw_lowq.jpg");
+	background-position: right top;
+}
+
+.wrapperdiv {
+	min-height: 100%;
+	position: relative;
+}
+
+.hero {
+	margin-top: 5%;
+	margin-left: 17%;
+	width: 48%;
+	height: 26em;
+	background: rgba(160, 160, 160, 0.7);
+	-webkit-border-radius: 6px;
+ 	 -moz-border-radius: 6px;
+      border-radius: 6px;
+}
+
+body div .main {
+	margin-bottom: 9em;
+}
+
+body div .footer {
+	width: 100%;
+	position: absolute;
+	left: 0;
+	background-color: #000000;
+}
+
+.footer p {
+	color: #999999;
+	margin-left: 5em;
+	margin-top: 2em;
+	padding-bottom: 1em;
+}
+
+#built {
+	margin-top: 1em;
+	padding-bottom: 1em;
+}
+
+.footer ul {
+	list-style: none;
+	float: right;
+	margin-top: -1.4em;
+	margin-right: 4em;
+	padding-bottom: 1em;
+}
+
+.footlink {
+	float: left;
+	padding-left: 1em;
+}
+
+.footlink a {
+	color: #999999;
+}
+
+.selected {
+	background-color: #E27A3F;
+}
+
+.nav-e:hover {
+	background-color: #4C4C4C;
+}
+
+.main .container {
+	margin-top: 5%;
+	margin-left: auto;
+	padding: 2em;
+	width: 80%;
+	height: auto;
+	background: rgba(20, 20, 20, 0.95);
+	-webkit-border-radius: 6px;
+ 	 -moz-border-radius: 6px;
+      border-radius: 6px;
+    color: #dddddd;
+}
+
+.project-l {
+	clear: both;
+	margin-left: 1em;
+	margin-bottom: 10em;
+}
+
+.project-r {
+	clear: both;
+	margin-left: 8em;
+	margin-bottom: 10em;
+}
+
+.container div .codepic {
+	float: left;
+	margin-left: 1em;
+	margin-top: 1em;
+	width: 20em;
+	height: 20em;
+	border-radius: 300px;
+	border: 3px solid #666666;
+}
+
+.container div .ctext {
+	float: left;
+	width: 35em;
+	margin-top: 4em;
+	margin-left: 4em;
+	padding: 2em;
+	padding-top: 2em;
+	padding-bottom: 2em;
+	border-radius: 10px;
+	color: black;
+	background-color: #E27A3F;
+}
+
+.ctext hr {
+	border: 1px solid #000000;
+}
+
+#code6 {
+	margin-top: 5em;
+}

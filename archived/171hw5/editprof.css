@@ -1,0 +1,33 @@
+body {
+	background-color: #006900;
+}
+
+h2 {
+	text-align: center;
+	font-family: sans-serif;
+}
+
+.back_panel {
+	margin-left: 5%;
+	padding-left: 5%;
+	padding-top: 5%;
+	width: 80%;
+	height: 250px;
+	background-color: #FF9966;
+	border-radius: 7px;
+}
+
+button {
+	width: 7em;
+	border-radius: 0.2em;
+}
+
+.formatdiv {
+	margin-top: 5%;
+	width: 90%;
+	text-align: right;
+}
+
+#usrnm {
+	text-align: center;
+}
