@@ -138,4 +138,6 @@ body div .footer {
 
 #resume-canvas {
 	border:1px solid black;
+	margin-left: auto;
+	margin-top: 3em;
 }
