@@ -4,7 +4,6 @@
 
 'use strict';
 
-PDFJS.workerSrc = 'pdfjs/build/pdf.worker.js';
 
 //
 // Fetch the PDF document from the URL using promises
