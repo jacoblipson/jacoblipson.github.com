@@ -149,6 +149,13 @@ body div .footer {
     color: #dddddd;
 }
 
+#w1ranking iframe {
+	float: left;
+	width: 300px;
+	height: 560px;
+	margin-right: 30px;
+}
+
 #prerankings iframe {
 	float: left;
 	width: 250px;
